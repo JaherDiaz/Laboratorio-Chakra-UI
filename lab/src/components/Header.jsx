@@ -25,7 +25,7 @@ export default function Header() {
 
         <Stack direction="row" spacing={4} align="center">
           <Button fontWeight="low" borderRadius="0" colorScheme="gray" color="white" borderColor="white" _hover={{ bgColor: "white", color: "black" }} variant="outline" >
-            VER DETALLEs
+            VER DETALLES
           </Button>
           <Button fontWeight="low" borderRadius="0" colorScheme="gray" color="white" borderColor="white" _hover={{ bgColor: "white", color: "black" }} variant="outline">
             VER VIDEO
